@@ -148,6 +148,10 @@ body {
     font-size: 1.4rem;
   }
 
+  .writter {
+    gap: 0.9rem;
+  }
+
   .writter img {
     height: 2.8rem;
   }
